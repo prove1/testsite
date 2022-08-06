@@ -1,2 +1,14 @@
-hello world
-!
+
+<html>
+    <head>
+        <title>Test Page</title>
+        <link rel="stylesheet" type="text/css" href="cssfile.css" />
+        <script type="text/javascript" src="javascript.js"></script>
+        <script type="text/javascript">
+        </script>
+    </head>
+    <body>
+    hello world
+    
+    </body>
+</html>
